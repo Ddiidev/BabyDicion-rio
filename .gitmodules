@@ -1,0 +1,6 @@
+[submodule "Back-BabyDicionario"]
+	path = Back-BabyDicionario
+	url = https://github.com/Ddiidev/Back-BabyDicionario.git
+[submodule "Front-BabyDicionario"]
+	path = Front-BabyDicionario
+	url = https://github.com/Ddiidev/Front-BabyDicionario.git
