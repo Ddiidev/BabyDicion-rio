@@ -1,0 +1,28 @@
+version: '3'
+services:
+ api:
+    build: .
+    deploy:
+      replicas: 3
+      resources:
+        limits:
+          memory: 260M
+    networks:
+      - net_api
+
+ nginx:
+    image: nginx:latest
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+      - ./dist:/usr/share/nginx/html:ro
+      - ./:/etc/nginx/ssl
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - api
+    networks:
+      - net_api
+
+networks:
+ net_api:
