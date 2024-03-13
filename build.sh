@@ -9,14 +9,15 @@ for item in $(v list); do
 done
 
 cd Back-BabyDicionario/
-v install
-cd ..
 
+v install
 
 if [ "$exist_jwt" = false ]; then
     v install https://github.com/Ddiidev/jwt
 fi
 
 v -prod . -o dicionario_do_bebe
+
+cd ..
 
 docker-compose up --build
