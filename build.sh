@@ -16,7 +16,18 @@ if [ "$exist_jwt" = false ]; then
     v install https://github.com/Ddiidev/jwt
 fi
 
+echo "Compilando a api"
 v -prod . -o dicionario_do_bebe
+
+cd ..
+
+cd Front-BabyDicionario/
+
+npm install
+
+npm run build
+
+cp dist/ ../
 
 cd ..
 
