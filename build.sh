@@ -8,8 +8,10 @@ for item in $(v list); do
     fi
 done
 
-
+cd Back-BabyDicionario/
 v install
+cd ..
+
 
 if [ "$exist_jwt" = false ]; then
     v install https://github.com/Ddiidev/jwt
