@@ -159,4 +159,5 @@ _Vai instalar o nvm e node do projeto do frontend e buildar para produção._
 > Talvez seja necessário ajustar seu arquivo host com o ip apontado corretamente. (Não tenho certeza!)
 > 
 > localhost app.dicionariodobebe.fun
+> 
 > localhost api.dicionariodobebe.fun
