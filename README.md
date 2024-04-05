@@ -1,5 +1,7 @@
 
-# Dicionário do bebê
+![68747470733a2f2f696d6775722e636f6d2f744c376a4b34312e706e67](https://github.com/Ddiidev/BabyDicionario/assets/7676415/bb28df35-3ac3-4379-944d-c7a1166ba8cf)
+
+# 
 
 Esse era um projeto que comecei para utilizar apenas para mim e minha família 🧑🏻‍👩🏾‍👦🏻, e decidi transformar em algo em que mais familias possam utilizar.
 
@@ -10,7 +12,7 @@ E poder acompanhar isso no futuro (infelizmente e felizmente bem próximo) é m�
 
 ## Demonstração
 
-
+https://github.com/Ddiidev/BabyDicionario/assets/7676415/0c593d99-cb9f-4fc4-ad2d-72eb4b7505b3
 
 
 ## Clonando repo
