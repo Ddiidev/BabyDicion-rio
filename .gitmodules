@@ -4,3 +4,6 @@
 [submodule "Back-BabyDicionario"]
 	path = Back-BabyDicionario
 	url = https://github.com/Ddiidev/Back-BabyDicionario
+[submodule "Storage-BabyDicionario"]
+	path = Storage-BabyDicionario
+	url = https://github.com/Ddiidev/Storage-BabyDicionario
