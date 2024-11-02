@@ -12,7 +12,9 @@ E poder acompanhar isso no futuro (infelizmente e felizmente bem próximo) é m�
 
 ## Demonstração
 
-https://github.com/Ddiidev/BabyDicionario/assets/7676415/0c593d99-cb9f-4fc4-ad2d-72eb4b7505b3
+> https://github.com/Ddiidev/BabyDicionario/assets/7676415/0c593d99-cb9f-4fc4-ad2d-72eb4b7505b3
+> 
+> **_Vídeo desatualizado desde 04/04/2024_**
 
 
 ## Clonando repo
